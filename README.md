@@ -1,2 +1,2 @@
 # 5City-vehicleshop
-Vehicle Shop z 5City pod target
+Vehicle Shop przypominający ten z pięciu miast pod target
